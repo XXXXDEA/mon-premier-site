@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon Premier Site</title>
+</head>
+<body>
+    <h1>Bienvenue sur mon site hébergé par GitHub !</h1>
+    <p>Ce site est codé de A à Z et ne me coûte pas un centime.</p>
+</body>
+</html>
